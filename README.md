@@ -22,11 +22,16 @@ Este projeto traz para o Foundry VTT (versão 13) um compêndio em português co
 ## 📌 Responsável pelo Projeto
 
 Criado por: **Mestre Charles Corrêa**  
-Blog: [https://rpg.charlescorrea.com.br](https://rpg.charlescorrea.com.br)
-Instagram: [https://instagram.com/MestreCharlesCorrea](https://instagram.com/MestreCharlesCorrea)
-YouTube: [https://www.youtube.com/@mestrecharlescorrea](https://www.youtube.com/@mestrecharlescorrea)
-Twitch: [https://twitch.com/MestreCharlesCorrea ](https://twitch.com/MestreCharlesCorrea) 
-Discord: mestrecharlescorrea
+Blog: 
+[https://rpg.charlescorrea.com.br](https://rpg.charlescorrea.com.br)
+Instagram: 
+[https://instagram.com/MestreCharlesCorrea](https://instagram.com/MestreCharlesCorrea)
+YouTube: 
+[https://www.youtube.com/@mestrecharlescorrea](https://www.youtube.com/@mestrecharlescorrea)
+Twitch: 
+[https://twitch.com/MestreCharlesCorrea ](https://twitch.com/MestreCharlesCorrea) 
+Discord: 
+mestrecharlescorrea
 
 ## 🔗 Referências e Fontes Oficiais
 
